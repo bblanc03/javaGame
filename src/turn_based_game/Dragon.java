@@ -16,7 +16,7 @@ public class Dragon extends Interactions{
 		System.out.println();
 		System.out.println(getName() + " used slash");
 		System.out.println();
-		damage = 75;
+		damage = 70;
 	}
 
 	public boolean run(String player) {
